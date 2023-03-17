@@ -1,4 +1,4 @@
-variable "token" {
+variable "token" {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
   description = "GitHub access token used to configure the provider"
   type        = string
   default     = "CHANGE-ME"
